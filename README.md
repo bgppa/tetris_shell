@@ -3,5 +3,3 @@ Various C++ exercises inspired from a yt channel; repository done to keep track 
 
 Quick rough game of Tetris for an Unix shell. Compile with:
 $g++ tetris.cpp -lncurses
-
-Have fun!
